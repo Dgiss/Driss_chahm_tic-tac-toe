@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 b6d21a9964693250504fcc8d70ddae012d22524b Dgiss <chahmdriss6@gmail.com> 1712334873 +0200	commit (initial): first init
+b6d21a9964693250504fcc8d70ddae012d22524b b6d21a9964693250504fcc8d70ddae012d22524b Dgiss <chahmdriss6@gmail.com> 1712334907 +0200	Branch: renamed refs/heads/master to refs/heads/main
+b6d21a9964693250504fcc8d70ddae012d22524b 6b1903b770c9170addc43e64b213f0411d4c643b Dgiss <chahmdriss6@gmail.com> 1712335669 +0200	commit: first init
+6b1903b770c9170addc43e64b213f0411d4c643b 6b1903b770c9170addc43e64b213f0411d4c643b Dgiss <chahmdriss6@gmail.com> 1712356783 +0200	Branch: renamed refs/heads/main to refs/heads/dev
+6b1903b770c9170addc43e64b213f0411d4c643b 8936e4b2148bb15c695884f608e4bd0c1727abea Dgiss <chahmdriss6@gmail.com> 1712356818 +0200	commit: jenkinsFile
+8936e4b2148bb15c695884f608e4bd0c1727abea 7f7beac8e8532a24404d99a1e8bb803a675d81c7 Dgiss <chahmdriss6@gmail.com> 1712358441 +0200	commit: jenkinsfile
+7f7beac8e8532a24404d99a1e8bb803a675d81c7 86faef6513111ab6cbdb030b49250c0ee2ea6f60 Dgiss <chahmdriss6@gmail.com> 1712358747 +0200	commit: jenkinsfile
+86faef6513111ab6cbdb030b49250c0ee2ea6f60 9b5e81a2434ee41e6dbe83de2863170ed667c014 Dgiss <chahmdriss6@gmail.com> 1712372864 +0200	commit: test auto build
+9b5e81a2434ee41e6dbe83de2863170ed667c014 fc211899cd3cd24cc1e4ed15f925a6548b29a6c9 Dgiss <chahmdriss6@gmail.com> 1712373069 +0200	commit: test auto build
+fc211899cd3cd24cc1e4ed15f925a6548b29a6c9 792576d3ec85bb160a0c8cfea6ed875ff13c1ac8 Dgiss <chahmdriss6@gmail.com> 1712374499 +0200	commit: clover
+792576d3ec85bb160a0c8cfea6ed875ff13c1ac8 6987d6323eebd0ba56f5e24e0b8fd9f94cf46db8 Dgiss <chahmdriss6@gmail.com> 1712375595 +0200	commit: clover
+6987d6323eebd0ba56f5e24e0b8fd9f94cf46db8 031773776e09b7133d4fbd5a9ae337173a249460 Dgiss <chahmdriss6@gmail.com> 1712375921 +0200	commit: clover
+031773776e09b7133d4fbd5a9ae337173a249460 e3d14cc90660b48e7c79155bf22d1cefa508b87d Dgiss <chahmdriss6@gmail.com> 1712376109 +0200	commit: clover
+e3d14cc90660b48e7c79155bf22d1cefa508b87d 8c4747c5cdc2e48ad591ec483c0edce76d370ae7 Dgiss <chahmdriss6@gmail.com> 1712376935 +0200	commit: fixing test

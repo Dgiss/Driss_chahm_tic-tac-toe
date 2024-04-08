@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "tic"]
+	url = http://localhost:8080/root/Chahm_Driss_tic-tac-toe
+	fetch = +refs/heads/*:refs/remotes/tic/*
+[branch "dev"]
+	remote = tic
+	merge = refs/heads/dev
+[branch "main"]
+	remote = tic
+	merge = refs/heads/main
